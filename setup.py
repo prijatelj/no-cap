@@ -16,7 +16,7 @@ with open('README.md', 'r') as f:
 #with open('requirements.txt', 'r') as f:
 #    install_requires = f.read()
 
-project_name = 'typing-to-configargparse'
+project_name = 'no-cap'
 module_name = project_name.replace('-', '_')
 
 setup(
